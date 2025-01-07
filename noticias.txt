@@ -1,8 +1,0 @@
-ENEM - 06/01/2025
-Base N58: Ajustes finais realizados, com reprocessamento de dados e verificação de cartões-resposta (dupla marcação, brancos e reservas). Envio ao DAEB previsto para hoje.
-
-Sistema de Resultados: Dependente do envio de dados da CGMEB. Testes planejados para iniciar até quinta-feira.
-
-Reaplicação e Redações: Correção iniciada em 02/01, previsão de término em 09/01. Resultados da reaplicação e redações serão integrados ao sistema.
-
-Conferência de Dados: Alinhamento entre listas de presença, atas de sala e relatórios garantido por auditorias. Pendências de cartões-resposta serão processadas até amanhã.
