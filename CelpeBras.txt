@@ -1,6 +1,6 @@
-09/01/2025
-Status das Inscriçõess: Problemas técnicos identificados, com 1658 inscrições concluídas até o momento.
-Sistema de Inscrição: Investigação em andamento para solucionar erros de sessão e ajustar o tempo de conexão.
-Cronograma: Prazos apertados demandam soluções rápidas para evitar impactos nas etapas seguintes.
-Provas e Materiais Instrutivos: Etapas concluídas até a pré-diagramação; adaptações de provas especiais ainda pendentes.
-Capacitação dos Coordenadores: Plano de capacitação online em fase final, com envio da minuta previsto para amanhã.
+16/01/2025
+Sistema de Inscrição: Instabilidade identificada no sistema devido à expiração de tokens. Até o momento, 2693 inscritos registrados, com monitoramento intensificado nos dias finais.
+Prorrogação do Prazo: Inscrições prorrogadas até 19/01/2025, com pagamento até 22/01/2025. Base parcial de inscritos será enviada em 25/01/2025.
+Cronograma: Ajustes necessários para evitar impacto na impressão e distribuição de provas, priorizando provas regulares.
+Atendimentos Especiais: 17 solicitações registradas, incluindo provas ampliadas e em braile. Impressão será organizada por prioridade.
+Contratos: Preocupação com entregas após o vencimento do contrato em 27/05/2025. Discussão de possível termo aditivo em andamento.
