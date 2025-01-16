@@ -1,6 +1,7 @@
 09/01/2025
 PRE-TESTE SAEB
-Envio de Bases: Problemas técnicos no layout impediram o envio da base programada para 10/01; ajustes pela TI do Inep estão em andamento.
-Planejamento de Análise: Análises dependem das bases N58 e N59, com o CR3 previsto para envio único em 17/02. Datas podem ser alteradas conforme o processamento.
-Dilação de Prazos: EU2 remanejado para abril; cronogramas serão revisados após reuniões com equipes estatísticas.
-Comunicação: Videoconferência com equipes estatísticas será realizada para alinhar cronogramas e prazos.
+Pendências do Robô de Validação: Erros no sistema impedem a validação de arquivos; aguardam resposta da FGV para correções.
+Envio de Produtos: Índice N98 precisa ser validado antes da entrega; imagens e PDFs não exigem validação.
+Dilação de Prazos: Prazo de envio de produtos adiado para 17 de janeiro devido a problemas técnicos.
+Impacto no Cronograma: Atividades subsequentes estão comprometidas; entrega de questionários prevista para 20 de janeiro.
+Encaminhamentos: Ações definidas para resolução com os responsáveis.
